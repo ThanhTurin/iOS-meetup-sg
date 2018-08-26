@@ -1,0 +1,26 @@
+PLATFORMS = ['ios', 'tvos'].freeze
+SCHEMES = { ios: 'Demo-iOS', tvos: 'Demo-tvOS' }.freeze
+
+default_platform(:ios)
+[:ios, :tvos].each do |current_platform|
+  # Define all lanes we wanna run here
+  platform current_platform do
+    # Get dependencies
+    scheme = SCHEMES[current_platform]
+
+    desc "Run all unit tests"
+    lane :test do
+      scan(scheme: scheme)
+      # puts "Thanh"
+    end
+
+  end
+end
+
+# Global lanes to run on all platforms
+desc "Runs tests and generates code coverage report"
+lane :test_all do
+  PLATFORMS.each do |platform|
+    Fastlane::LaneManager.cruise_lane(platform, 'test')
+  end
+end
