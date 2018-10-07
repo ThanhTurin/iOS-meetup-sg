@@ -1,0 +1,929 @@
+{
+  "hasMore": false,
+  "videos": [
+    {
+      "description": "MusicKit has enabled the creation of new, compelling, and engaging Apple Music powered app experiences. With the introduction of MusicKit on the web, as a developer, you can now bring Apple Music powered experiences to the web. Learn how to use declarative markup or javascript to enable Apple Music on your website.",
+      "endTime": "2018-06-08T10:40:00-07:00",
+      "eventContentId": 506,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-506",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "keywords": [
+        "apple music",
+        "musickit",
+        "musickitjs"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/506dgb08enfpgn2c58s/506/506_hd_musickit_on_the_web.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/506dgb08enfpgn2c58s/506/506_sd_musickit_on_the_web.mp4",
+        "duration": 1497,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/506dgb08enfpgn2c58s/506/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/506dgb08enfpgn2c58s/506/506_musickit_on_the_web.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/506dgb08enfpgn2c58s/506/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-08T10:00:00-07:00",
+      "platforms": [
+        "iOS",
+        "macOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-5150",
+          "wwdc2017-502"
+        ],
+        "resources": [
+          428
+        ]
+      },
+      "roomId": 63,
+      "startTime": "2018-06-08T10:00:00-07:00",
+      "staticContentId": 2174,
+      "title": "MusicKit on the Web",
+      "topicIds": [
+        28,
+        20
+      ],
+      "trackId": 3,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/506"
+    },
+    {
+      "description": "watchOS 5 brings web content to Apple Watch by rendering rich HTML in Messages and Mail. Gain insights into how watchOS maintains compatibility with existing web content, and find out what you can do to optimize your web content for Apple Watch.",
+      "eventContentId": 239,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-239",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/239oqke16leldnu3010/239/239_hd_designing_web_content_for_watchos.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/239oqke16leldnu3010/239/239_sd_designing_web_content_for_watchos.mp4",
+        "duration": 480,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/239oqke16leldnu3010/239/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/239oqke16leldnu3010/239/239_designing_web_content_for_watchos.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/239oqke16leldnu3010/239/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T17:26:26-07:00",
+      "platforms": [
+        "watchOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-234",
+          "wwdc2018-2040",
+          "wwdc2018-2230",
+          "wwdc2018-2470",
+          "tech-talks-205"
+        ]
+      },
+      "staticContentId": 2233,
+      "title": "Designing Web Content for watchOS",
+      "topicIds": [
+        20
+      ],
+      "trackId": 3,
+      "type": "Video",
+      "webPermalink": "https://developer.apple.com/wwdc18/239"
+    },
+    {
+      "description": "With TVMLKit you can quickly and easily develop tvOS apps that deliver intuitive and engaging media experiences. Learn about enhancements to data binding that allow you to separate your application logic and user interface, and new features and functions to customize the media playback experience.",
+      "eventContentId": 238,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-238",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "keywords": [
+        "avfoundation",
+        "avkit",
+        "javascript",
+        "javascriptcore",
+        "media",
+        "tvml",
+        "tvmljs",
+        "tvmlkit",
+        "web inspector"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/238l85zhwz7192hqb/238/238_hd_whats_new_in_tvmlkit.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/238l85zhwz7192hqb/238/238_sd_whats_new_in_tvmlkit.mp4",
+        "duration": 1184,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/238l85zhwz7192hqb/238/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/238l85zhwz7192hqb/238/238_whats_new_in_tvmlkit.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/238l85zhwz7192hqb/238/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T17:26:26-07:00",
+      "platforms": [
+        "tvOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-208",
+          "wwdc2018-2110",
+          "wwdc2018-2320"
+        ]
+      },
+      "staticContentId": 2510,
+      "title": "What's New in TVMLKit",
+      "topicIds": [
+        20,
+        22
+      ],
+      "trackId": 3,
+      "type": "Video",
+      "webPermalink": "https://developer.apple.com/wwdc18/238"
+    },
+    {
+      "description": "Whether you use web content in your app via an embedded WebKit view, deliver pure web apps, or create web content to be embedded by others, it's important to ensure that you are using the most current web security standards. Learn techniques like such as special cookie attributes and HTTP response headers designed to secure your web content against the latest threats that include cross-site scripting, cross-site request forgeries, and speculative execution attacks, commonly known as Spectre.",
+      "endTime": "2018-06-05T16:40:00-07:00",
+      "eventContentId": 207,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-207",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/207m5757sq9wfhvby/207/207_hd_strategies_for_securing_web_content.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/207m5757sq9wfhvby/207/207_sd_strategies_for_securing_web_content.mp4",
+        "duration": 2669,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/207m5757sq9wfhvby/207/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/207m5757sq9wfhvby/207/207_strategies_for_securing_web_content.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/207m5757sq9wfhvby/207/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T16:00:00-07:00",
+      "platforms": [
+        "iOS",
+        "macOS",
+        "tvOS",
+        "watchOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-234",
+          "wwdc2018-718",
+          "wwdc2018-2040",
+          "wwdc2018-2230",
+          "wwdc2018-2470"
+        ]
+      },
+      "roomId": 66,
+      "startTime": "2018-06-05T16:00:00-07:00",
+      "staticContentId": 2266,
+      "title": "Strategies for Securing Web Content",
+      "topicIds": [
+        19,
+        20
+      ],
+      "trackId": 3,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/207"
+    },
+    {
+      "description": "Gain insights into the latest in Cocoa frameworks for macOS. Hear about Dark Mode, control tinting, contextual workflows for Touch Bar and Finder, and other improvements in AppKit, Foundation, and related areas. Get an overview and guide to the sessions that we have this year covering advancements in Cocoa.",
+      "endTime": "2018-06-05T16:40:00-07:00",
+      "eventContentId": 209,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-209",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/209pydirtfgavpnj/209/209_hd_whats_new_in_cocoa_for_macos.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/209pydirtfgavpnj/209/209_sd_whats_new_in_cocoa_for_macos.mp4",
+        "duration": 2439,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/209pydirtfgavpnj/209/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/209pydirtfgavpnj/209/209_whats_new_in_cocoa_for_macos.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/209pydirtfgavpnj/209/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T16:00:00-07:00",
+      "platforms": [
+        "macOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-210",
+          "wwdc2018-218",
+          "wwdc2018-221",
+          "wwdc2018-222",
+          "wwdc2018-604",
+          "wwdc2018-2130",
+          "wwdc2018-2220",
+          "wwdc2018-2420",
+          "wwdc2018-6070"
+        ]
+      },
+      "roomId": 61,
+      "startTime": "2018-06-05T16:00:00-07:00",
+      "staticContentId": 2249,
+      "title": "What's New in Cocoa for macOS",
+      "topicIds": [
+        34,
+        67,
+        22
+      ],
+      "trackId": 3,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/209"
+    },
+    {
+      "description": "Speech can enhance the audio experience of your app, whether you are generating spoken feedback for accessibility, or providing critical information beyond simple alerts or notifications. AVSpeechSynthesizer produces synthesized speech from text and allows you to control and monitor the progress of ongoing speech. Learn the ins and outs of AVSpeechSynthesizer and how to add computer-generated speech output to your app.",
+      "eventContentId": 236,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-236",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "keywords": [
+        "assistive",
+        "blind",
+        "disability",
+        "synthesizer",
+        "voiceover"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/236mwbxbxjfsvns4jan/236/236_hd_avspeechsynthesizer_making_ios_talk.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/236mwbxbxjfsvns4jan/236/236_sd_avspeechsynthesizer_making_ios_talk.mp4",
+        "duration": 528,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/236mwbxbxjfsvns4jan/236/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/236mwbxbxjfsvns4jan/236/236_avspeechsynthesizer_making_ios_talk.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/236mwbxbxjfsvns4jan/236/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T17:26:26-07:00",
+      "platforms": [
+        "iOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "staticContentId": 2435,
+      "title": "AVSpeechSynthesizer: Making iOS Talk",
+      "topicIds": [
+        8,
+        28,
+        21
+      ],
+      "trackId": 3,
+      "type": "Video",
+      "webPermalink": "https://developer.apple.com/wwdc18/236"
+    },
+    {
+      "description": "Drag and Drop is a powerful API that allows apps to share and communicate data. No matter how you decide to implement Drag and Drop, there's a way to make it work for people with accessibility needs. Learn the details as we dive into accessible Drag and Drop for iOS.",
+      "eventContentId": 241,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-241",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "keywords": [
+        "accessibility",
+        "assistive",
+        "blind",
+        "disability"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/241fyqqiogmd6sv/241/241_hd_accessible_drag_and_drop.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/241fyqqiogmd6sv/241/241_sd_accessible_drag_and_drop.mp4",
+        "duration": 553,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/241fyqqiogmd6sv/241/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/241fyqqiogmd6sv/241/241_accessible_drag_and_drop.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/241fyqqiogmd6sv/241/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T17:26:26-07:00",
+      "platforms": [
+        "iOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-108"
+        ]
+      },
+      "staticContentId": 2431,
+      "title": "Accessible Drag and Drop",
+      "topicIds": [
+        8
+      ],
+      "trackId": 3,
+      "type": "Video",
+      "webPermalink": "https://developer.apple.com/wwdc18/241"
+    },
+    {
+      "description": "Introduced just one year ago, Core ML has already revolutionized the way apps can benefit from machine learning, by enabling fast and private on device machine learning features for your app. Find out how new Core ML features let you reduce the size of models, make them more flexible, and dramatically improve performance.",
+      "endTime": "2018-06-06T09:40:00-07:00",
+      "eventContentId": 708,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-708",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/708ax570wjtpxze/708/708_hd_whats_new_in_core_ml_part_1.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/708ax570wjtpxze/708/708_sd_whats_new_in_core_ml_part_1.mp4",
+        "duration": 2245,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/708ax570wjtpxze/708/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/708ax570wjtpxze/708/708_whats_new_in_core_ml_part_1.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/708ax570wjtpxze/708/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-06T09:00:00-07:00",
+      "platforms": [
+        "iOS",
+        "macOS",
+        "tvOS",
+        "watchOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-110",
+          "wwdc2018-703",
+          "wwdc2018-709",
+          "wwdc2018-712",
+          "wwdc2018-713",
+          "wwdc2018-717",
+          "wwdc2018-7100",
+          "wwdc2018-7180"
+        ],
+        "resources": [
+          200,
+          88,
+          27
+        ]
+      },
+      "roomId": 61,
+      "startTime": "2018-06-06T09:00:00-07:00",
+      "staticContentId": 2080,
+      "title": "What’s New in Core ML, Part 1",
+      "topicIds": [
+        16
+      ],
+      "trackId": 3,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/708"
+    },
+    {
+      "description": "MapKit JS brings Apple Maps to your website. See how MapKit JS provides map rendering that is optimized for various browsers and devices, and supports native gestures such as pinch-to-zoom, two-finger rotate, and more. Learn how to add annotations and overlays, and how to use JavaScript interfaces to Apple Maps services such as Search and Directions to deliver an amazing map experience on your website.",
+      "endTime": "2018-06-05T18:00:00-07:00",
+      "eventContentId": 212,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-212",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "keywords": [
+        "location",
+        "map",
+        "mapkit",
+        "maps",
+        "web"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/212nan45edr4qp/212/212_hd_introducing_mapkit_js.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/212nan45edr4qp/212/212_sd_introducing_mapkit_js.mp4",
+        "duration": 3434,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/212nan45edr4qp/212/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/212nan45edr4qp/212/212_introducing_mapkit_js.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/212nan45edr4qp/212/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T17:00:00-07:00",
+      "platforms": [
+        "iOS",
+        "macOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-508",
+          "wwdc2018-2150",
+          "wwdc2018-2490"
+        ],
+        "resources": [
+          414
+        ]
+      },
+      "roomId": 66,
+      "startTime": "2018-06-05T17:00:00-07:00",
+      "staticContentId": 2094,
+      "title": "Introducing MapKit JS",
+      "topicIds": [
+        17,
+        20
+      ],
+      "trackId": 3,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/212"
+    },
+    {
+      "description": "Business Chat is a powerful way for organizations to connect with customers directly from within Messages. Whether you are a Customer Service Platform provider, a brand looking to integrate chat for customer communication, or a brand app developer looking to extend your iOS app to enhance Business Chat conversations, you'll receive concrete guidance and learn the baseline requirements necessary to ensure you are ready to go live.",
+      "endTime": "2018-06-08T12:00:00-07:00",
+      "eventContentId": 232,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-232",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/232mj2p4q92uls5n/232/232_hd_getting_ready_for_business_chat.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/232mj2p4q92uls5n/232/232_sd_getting_ready_for_business_chat.mp4",
+        "duration": 2604,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/232mj2p4q92uls5n/232/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/232mj2p4q92uls5n/232/232_getting_ready_for_business_chat.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/232mj2p4q92uls5n/232/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-08T11:00:00-07:00",
+      "platforms": [
+        "iOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-2430",
+          "tech-talks-205",
+          "wwdc2017-234",
+          "wwdc2017-240",
+          "wwdc2016-204",
+          "wwdc2016-224"
+        ],
+        "resources": [
+          419,
+          418,
+          417,
+          416,
+          415
+        ]
+      },
+      "roomId": 63,
+      "startTime": "2018-06-08T11:00:00-07:00",
+      "staticContentId": 2323,
+      "title": "Getting Ready for Business Chat",
+      "topicIds": [
+        40,
+        13
+      ],
+      "trackId": 3,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/232"
+    },
+    {
+      "description": "On macOS, Metal 2 adds specialized support for virtual reality (VR) rendering and external GPUs. Learn about new features and optimizations to take advantage of these technologies within your Metal 2-based apps and games. Understand best practices for scheduling workloads across multiple GPUs and techniques for frame pacing while multi-threading.",
+      "endTime": "2018-06-08T09:40:00-07:00",
+      "eventContentId": 611,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-611",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/611q31k82j69jxqw/611/611_hd_metal_for_vr.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/611q31k82j69jxqw/611/611_sd_metal_for_vr.mp4",
+        "duration": 2076,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/611q31k82j69jxqw/611/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/611q31k82j69jxqw/611/611_metal_for_vr.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/611q31k82j69jxqw/611/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-08T09:00:00-07:00",
+      "platforms": [
+        "macOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-612",
+          "wwdc2018-6060",
+          "wwdc2018-6180",
+          "wwdc2017-603"
+        ],
+        "resources": [
+          38
+        ]
+      },
+      "roomId": 61,
+      "startTime": "2018-06-08T09:00:00-07:00",
+      "staticContentId": 2122,
+      "title": "Metal for VR",
+      "topicIds": [
+        23,
+        25,
+        26,
+        27
+      ],
+      "trackId": 4,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/611"
+    },
+    {
+      "description": "Podcasts are created and enjoyed by millions of people around the world. With the addition of Podcast Analytics, podcasters can gather actionable and insightful intelligence into how their show is consumed, while respecting the privacy of their listeners. Learn how to interpret and use these new analytics to improve your show.",
+      "endTime": "2018-06-05T09:40:00-07:00",
+      "eventContentId": 501,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-501",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "keywords": [
+        "analytics",
+        "audience",
+        "audio",
+        "data",
+        "podcast",
+        "podcaster",
+        "podcasting",
+        "podcasts"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/501rzej45eysiycpu/501/501_hd_introducing_podcast_analytics.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/501rzej45eysiycpu/501/501_sd_introducing_podcast_analytics.mp4",
+        "duration": 2109,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/501rzej45eysiycpu/501/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/501rzej45eysiycpu/501/501_introducing_podcast_analytics.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/501rzej45eysiycpu/501/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T09:00:00-07:00",
+      "platforms": [
+        "iOS",
+        "macOS",
+        "watchOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-5010",
+          "wwdc2017-512"
+        ],
+        "resources": [
+          442,
+          238
+        ]
+      },
+      "roomId": 66,
+      "startTime": "2018-06-05T09:00:00-07:00",
+      "staticContentId": 2078,
+      "title": "Introducing Podcast Analytics",
+      "topicIds": [
+        28,
+        39
+      ],
+      "trackId": 5,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/501"
+    },
+    {
+      "description": "Great Design isn’t magic, it is crafted with care by real people. Explore the characteristics of great design through the voices of designers from Apple and our developer community. Learn how they take inspiration from everyday life, conceive and refine ideas, and push themselves to design apps and games that can stand the test of time.",
+      "endTime": "2018-06-06T12:00:00-07:00",
+      "eventContentId": 801,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-801",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "keywords": [
+        "🎮",
+        "📱",
+        "🔊",
+        "😎",
+        "animation",
+        "apple design",
+        "apple designers",
+        "audio",
+        "care",
+        "caroline",
+        "cas",
+        "communiction",
+        "copy",
+        "craft",
+        "d",
+        "design",
+        "design best practices",
+        "designer",
+        "doug",
+        "editorial",
+        "elaine",
+        "emoji",
+        "gary",
+        "great",
+        "great design",
+        "haptics",
+        "hugo",
+        "interaction",
+        "interview",
+        "interviews",
+        "jessie",
+        "khan",
+        "khan academy",
+        "lauren",
+        "lauren strehlow",
+        "layers",
+        "loic",
+        "loïc",
+        "mike",
+        "nando",
+        "nicole",
+        "people",
+        "podcast",
+        "q",
+        "qualities",
+        "quality",
+        "sound",
+        "strehlow",
+        "travis",
+        "typography",
+        "ui",
+        "visual",
+        "where cards fall"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/801srpnrtij2lqi6/801/801_hd_the_qualities_of_great_design.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/801srpnrtij2lqi6/801/801_sd_the_qualities_of_great_design.mp4",
+        "duration": 3202,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/801srpnrtij2lqi6/801/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/801srpnrtij2lqi6/801/801_the_qualities_of_great_design.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/801srpnrtij2lqi6/801/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-06T11:00:00-07:00",
+      "platforms": [
+        "iOS",
+        "macOS",
+        "tvOS",
+        "watchOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "roomId": 62,
+      "startTime": "2018-06-06T11:00:00-07:00",
+      "staticContentId": 2134,
+      "title": "The Qualities of Great Design",
+      "topicIds": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "trackId": 2,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/801"
+    },
+    {
+      "description": "",
+      "endTime": "2018-06-06T12:00:00-07:00",
+      "eventContentId": 216,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-216",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "keywords": [
+        "document browser",
+        "document picker",
+        "documents",
+        "file browser",
+        "files",
+        "file sharing"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/216dvfcqmzmak5qs/216/216_hd_managing_documents_in_your_ios_apps.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/216dvfcqmzmak5qs/216/216_sd_managing_documents_in_your_ios_apps.mp4",
+        "duration": 3060,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/216dvfcqmzmak5qs/216/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/216dvfcqmzmak5qs/216/216_managing_documents_in_your_ios_apps.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/216dvfcqmzmak5qs/216/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-06T11:00:00-07:00",
+      "platforms": [
+        "iOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-211",
+          "wwdc2018-2020",
+          "wwdc2018-2280",
+          "wwdc2018-2370",
+          "wwdc2018-2450",
+          "wwdc2017-229",
+          "wwdc2017-243"
+        ],
+        "resources": [
+          425,
+          423,
+          337,
+          182
+        ]
+      },
+      "roomId": 66,
+      "startTime": "2018-06-06T11:00:00-07:00",
+      "staticContentId": 2222,
+      "title": "Managing Documents In Your iOS Apps",
+      "topicIds": [
+        11,
+        22
+      ],
+      "trackId": 3,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/216"
+    },
+    {
+      "description": "People expect long battery life on their mobile devices, and apps play a vital role in achieving that experience. Understand how app behavior affects battery consumption, and learn strategies to conserve energy while providing the best experience for your app. Find out how Xcode Energy Reports can help you tune your app to use the least amount of power possible.",
+      "endTime": "2018-06-07T18:00:00-07:00",
+      "eventContentId": 228,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-228",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/228cp3feot1iav3gy4x/228/228_hd_whats_new_in_energy_debugging.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/228cp3feot1iav3gy4x/228/228_sd_whats_new_in_energy_debugging.mp4",
+        "duration": 3052,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/228cp3feot1iav3gy4x/228/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/228cp3feot1iav3gy4x/228/228_whats_new_in_energy_debugging.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/228cp3feot1iav3gy4x/228/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-07T17:00:00-07:00",
+      "platforms": [
+        "iOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-2080",
+          "wwdc2018-2390"
+        ]
+      },
+      "roomId": 63,
+      "startTime": "2018-06-07T17:00:00-07:00",
+      "staticContentId": 2255,
+      "title": "What’s New in Energy Debugging",
+      "topicIds": [
+        33,
+        35,
+        38
+      ],
+      "trackId": 6,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/228"
+    },
+    {
+      "description": "Metal Performance Shaders (MPS) harnesses the massive parallelism of the GPU to dramatically accelerate calculations at the heart of modern ray tracing and ray casting techniques. See how ray tracing can provide greater realism in 3D scenes through improved shading, soft shadows, and global illumination. Understand how MPS accelerates ray-triangle intersections while enabling dynamic scene updates, and learn how to extend your app across multiple GPUs for even greater performance.",
+      "endTime": "2018-06-06T16:40:00-07:00",
+      "eventContentId": 606,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-606",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/606id8hzoex3kf/606/606_hd_metal_for_ray_tracing_acceleration.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/606id8hzoex3kf/606/606_sd_metal_for_ray_tracing_acceleration.mp4",
+        "duration": 2236,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/606id8hzoex3kf/606/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/606id8hzoex3kf/606/606_metal_for_ray_tracing_acceleration.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/606id8hzoex3kf/606/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-06T16:00:00-07:00",
+      "platforms": [
+        "iOS",
+        "macOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-6060",
+          "wwdc2018-6120"
+        ],
+        "resources": [
+          365
+        ]
+      },
+      "roomId": 61,
+      "startTime": "2018-06-06T16:00:00-07:00",
+      "staticContentId": 2303,
+      "title": "Metal for Ray Tracing Acceleration",
+      "topicIds": [
+        23,
+        25,
+        26,
+        27
+      ],
+      "trackId": 4,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/606"
+    },
+    {
+      "description": "",
+      "endTime": "2018-06-06T18:00:00-07:00",
+      "eventContentId": 607,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-607",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/607buro3d9jn66/607/607_hd_metal_for_game_developers.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/607buro3d9jn66/607/607_sd_metal_for_game_developers.mp4",
+        "duration": 3605,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/607buro3d9jn66/607/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/607buro3d9jn66/607/607_metal_for_game_developers.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/607buro3d9jn66/607/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-06T17:00:00-07:00",
+      "platforms": [
+        "iOS",
+        "macOS",
+        "tvOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-105",
+          "wwdc2018-604",
+          "wwdc2018-612",
+          "wwdc2018-6130"
+        ],
+        "resources": [
+          364,
+          363,
+          362,
+          361,
+          360,
+          359,
+          356,
+          38
+        ]
+      },
+      "roomId": 66,
+      "startTime": "2018-06-06T17:00:00-07:00",
+      "staticContentId": 2121,
+      "title": "Metal for Game Developers",
+      "topicIds": [
+        25,
+        26,
+        27
+      ],
+      "trackId": 4,
+      "type": "Session",
+      "webPermalink": "https://developer.apple.com/wwdc18/607"
+    },
+    {
+      "description": "MapKit JS uses the JWT standard for ensuring a secure connection between your site and the MapKit JS services.  Learn how to create, protect, and use site-specific keys to ensure only your servers are accessing APIs linked to your domain.",
+      "eventContentId": 508,
+      "eventId": "wwdc2018",
+      "id": "wwdc2018-508",
+      "images": [
+        "square",
+        "wide"
+      ],
+      "media": {
+        "downloadHD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/508g9tgxpjyfuwr1ap/508/508_hd_getting_and_using_a_mapkit_js_key.mp4",
+        "downloadSD": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/508g9tgxpjyfuwr1ap/508/508_sd_getting_and_using_a_mapkit_js_key.mp4",
+        "duration": 837,
+        "hls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/508g9tgxpjyfuwr1ap/508/hls_vod_mvp.m3u8",
+        "slides": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/508g9tgxpjyfuwr1ap/508/508_getting_and_using_a_mapkit_js_key.pdf",
+        "tvOShls": "https://devstreaming-cdn.apple.com/videos/wwdc/2018/508g9tgxpjyfuwr1ap/508/atv_vod_mvp.m3u8"
+      },
+      "originalPublishingDate": "2018-06-05T17:26:27-07:00",
+      "platforms": [
+        "iOS",
+        "macOS"
+      ],
+      "publishingExpiryDate": "2023-06-04T00:00:00-07:00",
+      "related": {
+        "activities": [
+          "wwdc2018-212",
+          "wwdc2018-2150",
+          "wwdc2018-2340",
+          "wwdc2018-2490"
+        ]
+      },
+      "staticContentId": 2376,
+      "title": "Getting and Using a MapKit JS Key",
+      "topicIds": [
+        17,
+        20
+      ],
+      "trackId": 3,
+      "type": "Video",
+      "webPermalink": "https://developer.apple.com/wwdc18/508"
+    },
+  ]
+}

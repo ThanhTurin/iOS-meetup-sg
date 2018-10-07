@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='WWDC_tvOSTests.xctest' tests='2' failures='0'>
+  <testsuite name='WWDC_tvOSTests.WWDC_tvOSTests' tests='2' failures='0'>
+    <testcase classname='WWDC_tvOSTests.WWDC_tvOSTests' name='testExample' time='0.001'/>
+    <testcase classname='WWDC_tvOSTests.WWDC_tvOSTests' name='testPerformanceExample' time='0.393'/>
+  </testsuite>
+</testsuites>

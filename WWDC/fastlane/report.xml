@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.007314">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.00117">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: default_platform" time="0.001328">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: default_platform" time="0.001165">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: scan" time="43.661633">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: clean_build_artifacts" time="0.005217">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: default_platform" time="0.002107">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="7: default_platform" time="0.001736">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="8: scan" time="40.992666">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="9: clean_build_artifacts" time="0.001656">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
